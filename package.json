@@ -1,0 +1,12 @@
+{
+  "name": "store_wx",
+  "version": "2.1.9",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["微信小程序","全局状态管理工具"],
+  "author": "coderxq",
+  "license": "ISC"
+}
